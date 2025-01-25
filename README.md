@@ -46,6 +46,12 @@ Coding platform : HackerRank (https://www.hackerrank.com/challenges/classes-obje
 
 Solution :
 
+Approach :
+
+1. We just need to input elements and push it into an array
+2. Just calculate the total score and return it
+3. Rest all is handled by the main function
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
